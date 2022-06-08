@@ -1,0 +1,44 @@
+body{
+    background-image: url('Background.jpg');
+    background-size: 1700px 780px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive !important;
+}
+
+.heading{
+    background-color: hotpink;
+    width: 100%;
+    margin-top: 0px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Permanent Marker', cursive !important;
+}
+
+#note{
+    font-size: 20px;
+    color: white;
+    font-family: 'Indie Flower', cursive !important;
+    font-weight: bold;
+}
+
+#object_input{
+    color: black;
+    width: 400px;
+    margin: 5px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+canvas{
+    border-radius: 20px;
+    margin-top: 365px;
+    box-shadow: 5px 5px 5px cyan;
+}
+
+#odject_name {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bolder;
+    width: 70px;
+    margin-left: 820px;
+}
